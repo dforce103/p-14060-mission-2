@@ -41,3 +41,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# 명언 앱 로컬 저장 데이터
+db/
+data.json
